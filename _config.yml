@@ -21,18 +21,18 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Jakazzy                         # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Learn. Build. Share. Repeat   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Learn software engineering in public, build projects, share what has been learnt with others and repeat.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://jakazzy.github.io/'
 
 github:
-  username: github_username             # change to your github username
+  username: jakazzy             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -40,12 +40,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: jakazzy
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    # - https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/jakazzy       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -80,10 +80,10 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: 'https://i.ibb.co/RYtLz0x/avatar.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
